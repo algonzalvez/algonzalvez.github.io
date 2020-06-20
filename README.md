@@ -4,9 +4,11 @@
 
 
 ### Projectos:
+- [Projecto Kubernetes-Dangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Dnajocms Homepage")
 - [Projecto Vagrant-Ansible](https://algonzalvez.github.io/vagrant-ansible "Vagrant-Ansible Homepage")
 - [Projecto Terraform-Docker](https://algonzalvez.github.io/terraform-docker "Terraform-Docker Homepage")
 
+
 ### Video tutoriales:
-- [Video tutorial con los dos ejemplos](https://www.youtube.com/watch?v=8HmCQqaWRx4&feature=youtu.be "Video tutorial") 
+- [Video tutorial con los ejemplos de Vagrant-Ansible y Terraform-Docker](https://www.youtube.com/watch?v=8HmCQqaWRx4&feature=youtu.be "Video tutorial") 
 > Enlace a youtube
