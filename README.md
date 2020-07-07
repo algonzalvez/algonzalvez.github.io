@@ -4,10 +4,10 @@
 
 
 ### Projectos:
-- [Projecto Kubernetes-Dangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Dnajocms Homepage")
-- [Projecto Vagrant-Ansible](https://algonzalvez.github.io/vagrant-ansible "Vagrant-Ansible Homepage")
-- [Projecto Terraform-Docker](https://algonzalvez.github.io/terraform-docker "Terraform-Docker Homepage")
-- [Projecto Record Sessions](https://algonzalvez.github.io/bash_script_record_sessions "Record Sessions Homepage")
+- [Proyecto Kubernetes-Dangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Dnajocms Homepage")
+- [Proyecto Vagrant-Ansible](https://algonzalvez.github.io/vagrant-ansible "Vagrant-Ansible Homepage")
+- [Proyecto Terraform-Docker](https://algonzalvez.github.io/terraform-docker "Terraform-Docker Homepage")
+- [Proyecto Record Sessions](https://algonzalvez.github.io/bash_script_record_sessions "Record Sessions Homepage")
 
 
 
