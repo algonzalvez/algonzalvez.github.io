@@ -3,7 +3,7 @@
 
 
 
-### Projectos:
+### Proyectos:
 - [Proyecto Kubernetes-Dangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Dnajocms Homepage")
 - [Proyecto Vagrant-Ansible](https://algonzalvez.github.io/vagrant-ansible "Vagrant-Ansible Homepage")
 - [Proyecto Terraform-Docker](https://algonzalvez.github.io/terraform-docker "Terraform-Docker Homepage")
