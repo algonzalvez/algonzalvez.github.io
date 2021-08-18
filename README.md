@@ -4,7 +4,7 @@
 
 
 ### Proyectos:
-- [Proyecto Kubernetes-Dangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Dnajocms Homepage")
+- [Proyecto Kubernetes-Djangocms](https://algonzalvez.github.io/kubernetes "Kubernetes-Djangocms Homepage")
 - [Proyecto Vagrant-Ansible](https://algonzalvez.github.io/vagrant-ansible "Vagrant-Ansible Homepage")
 - [Proyecto Terraform-Docker](https://algonzalvez.github.io/terraform-docker "Terraform-Docker Homepage")
 - [Proyecto Record Sessions](https://algonzalvez.github.io/bash_script_record_sessions "Record Sessions Homepage")
